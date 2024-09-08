@@ -1,3 +1,11 @@
+# My Portfolio #
+Written in vanilla js.
+
+If you have any questions you can message me on discord **Rajonmn**
+*PS. I'm sure there are a lot of typos and bugs, so pull requests and forks are welcome*  
+
+**Live**: [blackxdbd.github.io](https://blackxdbd.github.io/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
